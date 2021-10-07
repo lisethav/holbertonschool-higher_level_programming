@@ -1,0 +1,14 @@
+say_my_name = __import__("3-say_my_name").say_my_name
+ >>> say_my_name("Holberton", "School")
+    My name is Holberton School
+
+    >>> say_my_name("Liseth")
+    My name is Liseth 
+
+    >>> say_my_name("Holberton", "2")
+    My name is Holberton 2
+    Traceback (most recent call last):
+    TypeError: first_name must be a string
+
+    >>> say_my_name("Don Quail")
+    My name is Don Quail 
