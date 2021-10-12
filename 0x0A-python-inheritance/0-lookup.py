@@ -6,8 +6,5 @@ attributes and methods of an object
 
 
 def lookup(obj):
-
-    """
-    returns the list object
-    """
+    """ lookup returns the list object """
     return dir(obj)
