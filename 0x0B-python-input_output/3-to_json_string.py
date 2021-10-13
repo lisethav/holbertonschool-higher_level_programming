@@ -6,5 +6,5 @@ import json
 
 
 def to_json_string(my_obj):
-    """ append_write appends a text to a file """
+    """ o_json_string representation of an object (string) """
     return json.dumps(my_obj)
