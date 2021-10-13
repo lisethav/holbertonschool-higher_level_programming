@@ -8,5 +8,5 @@ import json
 
 def save_to_json_file(my_obj, filename):
     """ ave_to_json_file write a string respresetation in json"""
-    with open(filename, mode="") as file:
+    with open(filename, mode="w") as file:
         file.write(json.dumps(my_obj))
