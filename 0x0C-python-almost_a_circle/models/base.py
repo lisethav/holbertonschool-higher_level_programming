@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-A module with a
-class for the base of the rest of clases
+A module with a class for the base of the rest of clases
 """
 import json
 import os
