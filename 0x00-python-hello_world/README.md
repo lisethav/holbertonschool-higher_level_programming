@@ -67,7 +67,7 @@ Python function def magic_calculation(a, b): that does exactly the same as the f
 [![N|Solid](https://i.postimg.cc/qBNpwbw3/pngegg-3.png)](https://www.linkedin.com/in/liseth-arias/)
 
 [//]: # (Here are the links)
-   # source code
+[//]: #  (source code)
    [source_code]: <https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py>
    [source_code2]: <https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py>
    [source_code3]: <https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py>
@@ -75,7 +75,7 @@ Python function def magic_calculation(a, b): that does exactly the same as the f
    [source_code5]: <https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py>
    [source_code6]: <https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py>
 
-   # betty style
+[//]: #  (betty style)
    [betty-style.pl]: <https://github.com/holbertonschool/Betty/blob/master/betty-style.pl>
    [betty-doc.pl]: <https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl>
    [source_code]: <https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py>
