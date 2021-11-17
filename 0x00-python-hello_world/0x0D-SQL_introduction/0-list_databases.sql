@@ -1,0 +1,2 @@
+-- Listhing databases
+SHOW DATABASES;
