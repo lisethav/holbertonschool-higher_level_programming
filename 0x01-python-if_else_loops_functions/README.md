@@ -1,4 +1,4 @@
-# **0x00. Python - Hello, World**
+# **0x01. Python - if/else, loops, functions**
 
 Python is a very simple language, and has a very straightforward syntax. It encourages programmers to program without boilerplate (prepared) code.
 
