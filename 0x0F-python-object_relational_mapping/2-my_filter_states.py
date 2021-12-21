@@ -12,8 +12,8 @@ if __name__ == "__main__":
                             passwd=sys.argv[2], db=sys.argv[3])
 
     cursor = datab.cursor()
-    cursor.execute('SELECT * FROM states WHERE name LIKE BINARY "{0}" ORDER BY id'
-                    .format(sys.argv[4]))
+    cursor.execute('''SELECT * FROM states WHERE name LIKE BINARY
+                    "{0}" ORDER BY id'''.format(sys.argv[4]))
     for i in cursor.fetchall():
         print(i)
 
